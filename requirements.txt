@@ -1,0 +1,15 @@
+# Core analysis
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+
+# Read Stata-format DHS files
+pyreadstat
+
+# Notebook environment
+jupyterlab
+ipykernel
